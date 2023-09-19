@@ -32,7 +32,7 @@ To get started with the Neutron DAO Liquidity Solution, follow these steps:
 
 We believe in fostering a strong and engaged community. Join our community channels to connect with other users, developers, and contributors:
 
-- [Community Discord](https://discord.gg/BBUzW3FaZ))
+- [Community Discord](https://discord.gg/BBUzW3FaZ)
 
 If you have questions or need assistance, feel free to reach out to our support team through the community channels.
 
